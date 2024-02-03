@@ -11,7 +11,7 @@ The **Execution** phase 🚧 however, is not digital at all. Paperwork is essent
 
 > For example, a deliverer for concrete of a wall may be late. This means that the ceiling for the wall possibly has to be delayed (Since you can't build a ceiling above a wall that isn't built.)
 
-#### TAEC is the first software product to recognize the needs of construction managers that go beyond using a 3D model from the Planning phase. The first software product to coordinate deliveries in a new way.
+#### TAEC is the first software product to recognize the needs of construction managers that go beyond, at most, displaying a 3D model from the Planning phase. The first software product to coordinate deliveries in a new way by deeply linking them with the planning model.
 
 ## Our standards
 ### Product standards
