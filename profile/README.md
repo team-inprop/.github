@@ -1,5 +1,5 @@
 ## Digitalizing construction sites 🏗️
-![An AI-generated picture of a construction site for a large building in an urban city. There is a crane in the center of the picture, around the middle of the building.](https://raw.githubusercontent.com/TaecGmbH/taec.de/main/public/generated_construction_image.png)
+![An AI-generated picture of a construction site for a large building in an urban city. There is a crane in the center of the picture, around the middle of the building.](https://taec.de/media/generated_construction_image.png)
 
 The German construction process of a building can be defined in two major steps: **Planning** 💡 and **Execution** 🚧.
 
